@@ -1,0 +1,2 @@
+# Real-Estate-Price-predictor
+This project develops a real estate price prediction model using linear regression and EDA techniques. It involves analyzing the real estate dataset through EDA methods to understand the relationships between property features and prices. A linear regression model is then built and trained on the dataset to predict property prices. The model's performance is evaluated using metrics such as MSE, MAE, and R-squared. 
